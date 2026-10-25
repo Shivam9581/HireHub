@@ -2,6 +2,8 @@
 
 HireHub is a full-stack job portal where recruiters post jobs and students apply to them. Students upload a PDF resume to their profile and must have one before they can apply. Recruiters review applicants, open their resumes, and accept or reject applications.
 
+**Live demo:** [HireHub.app](https://hire-hub-jdoj.vercel.app)
+
 ## Features
 
 **Students**
